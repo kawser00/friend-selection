@@ -1,0 +1,19 @@
+
+.friend-details p{
+  margin:0;
+}
+.friend-area {
+  border-bottom: 1px solid #bdbcbc;
+}
+.friend-area img{
+  width: 150px;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #1a416b;
+  border-color: #364f6b;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #2f5883;
+}
